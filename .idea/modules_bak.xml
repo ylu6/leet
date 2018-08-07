@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/Array/Array.iml" filepath="$USER_HOME$/small_proj/snake/leet/Array/Array.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/BFS/BFS.iml" filepath="$USER_HOME$/small_proj/snake/leet/BFS/BFS.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/BackTracking/BackTracking.iml" filepath="$USER_HOME$/small_proj/snake/leet/BackTracking/BackTracking.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/BinarySearch/BinarySearch.iml" filepath="$USER_HOME$/small_proj/snake/leet/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/BinarySearchTree/BinarySearchTree.iml" filepath="$USER_HOME$/small_proj/snake/leet/BinarySearchTree/BinarySearchTree.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/BitManipulation/BitManipulation.iml" filepath="$USER_HOME$/small_proj/snake/leet/BitManipulation/BitManipulation.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/DFS/DFS.iml" filepath="$USER_HOME$/small_proj/snake/leet/DFS/DFS.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/Design/Design.iml" filepath="$USER_HOME$/small_proj/snake/leet/Design/Design.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/DivideAndConquer/DivideAndConquer.iml" filepath="$USER_HOME$/small_proj/snake/leet/DivideAndConquer/DivideAndConquer.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/DynamicProgramming/DynamicProgramming.iml" filepath="$USER_HOME$/small_proj/snake/leet/DynamicProgramming/DynamicProgramming.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/Graph/Graph.iml" filepath="$USER_HOME$/small_proj/snake/leet/Graph/Graph.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/Greedy/Greedy.iml" filepath="$USER_HOME$/small_proj/snake/leet/Greedy/Greedy.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/Hash/Hash.iml" filepath="$USER_HOME$/small_proj/snake/leet/Hash/Hash.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/Heap/Heap.iml" filepath="$USER_HOME$/small_proj/snake/leet/Heap/Heap.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/LinkedList/LinkedList.iml" filepath="$USER_HOME$/small_proj/snake/leet/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/Math/Math.iml" filepath="$USER_HOME$/small_proj/snake/leet/Math/Math.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/SegmentTree/SegmentTree.iml" filepath="$USER_HOME$/small_proj/snake/leet/SegmentTree/SegmentTree.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/Sort/Sort.iml" filepath="$USER_HOME$/small_proj/snake/leet/Sort/Sort.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/Stack/Stack.iml" filepath="$USER_HOME$/small_proj/snake/leet/Stack/Stack.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/String/String.iml" filepath="$USER_HOME$/small_proj/snake/leet/String/String.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/Tree/Tree.iml" filepath="$USER_HOME$/small_proj/snake/leet/Tree/Tree.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/Trie/Trie.iml" filepath="$USER_HOME$/small_proj/snake/leet/Trie/Trie.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/TwoPointer/TwoPointer.iml" filepath="$USER_HOME$/small_proj/snake/leet/TwoPointer/TwoPointer.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/UnionFind/UnionFind.iml" filepath="$USER_HOME$/small_proj/snake/leet/UnionFind/UnionFind.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/algs/algs.iml" filepath="$USER_HOME$/small_proj/snake/leet/algs/algs.iml" />
+      <module fileurl="file://$USER_HOME$/small_proj/snake/leet/leet.iml" filepath="$USER_HOME$/small_proj/snake/leet/leet.iml" />
+    </modules>
+  </component>
+</project>
